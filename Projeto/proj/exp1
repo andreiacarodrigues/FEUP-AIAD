@@ -1,0 +1,16 @@
+N node1 1,0 1,0
+N node3 10,0 1,0
+N node2 20,0 1,0
+N node4 10,0 2,0
+N node5 1,0 10,0
+
+E node1 node3
+E node3 node2
+E node1 node4
+E node4 node2
+E node5 node1
+
+S node3
+
+FS node5
+FG node2

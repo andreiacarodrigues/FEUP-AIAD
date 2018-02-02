@@ -1,0 +1,5 @@
+bin/*
+debug.log
+velocity.log
+velocity.log.1
+.settings/org.eclipse.jdt.groovy.core.prefs
